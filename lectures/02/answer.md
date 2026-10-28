@@ -17,11 +17,11 @@
 - 変えた設定やデータ：lora r16 -> lora _r8
 - 結果（比較表や数字）：result.jsonの比較
 - lora r16 after
--   "format_rate": 1.0,
+    "format_rate": 1.0,
     "content_rate": 0.9047619047619048,
     "both_rate": 0.9047619047619048,
     "seconds": 65.0
-  lora r8 after
+- lora r8 after
     "format_rate": 1.0,
     "content_rate": 0.9523809523809523,
     "both_rate": 0.9523809523809523,
